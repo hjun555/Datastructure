@@ -1,0 +1,10 @@
+CPU time to construct a MovieNet Database: 265 millisec
+The number of shortest paths between Crisp, Tracey/Tickner, Hilary : 1
+The number of shortest paths between McCuller, Arnold/Angela, June : 3
+The number of shortest paths between Perlman, Itzhak/Delphe, B?atrice : 7
+The number of shortest paths between Schroder, Rick/Keys, Amy : 3
+The number of shortest paths between Walker Jr., Robert/Strasberg, Lee : 1
+CPU time to process queries : 156 millisec
+
+Memory consumption: 389972576 bytes
+
